@@ -19,7 +19,6 @@
 #define TRINITY_DB2SFRM_H
 
 char const AchievementFormat[] = "niiissiiiiisiii";
-char const AreaGroupFormat[] = "n";
 char const AreaGroupMemberFormat[] = "nii";
 char const AuctionHouseFormat[] = "niiis";
 char const BarberShopStyleFormat[] = "nissfiii";
@@ -91,6 +90,7 @@ char const NamesReservedFormat[] = "nS";
 char const NamesReservedLocaleFormat[] = "nSi";
 char const OverrideSpellDataFormat[] = "niiiiiiiiiiii";
 char const PhaseXPhaseGroupFormat[] = "nii";
+char const PlayerConditionFormat[] = "niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiisiii";
 char const QuestMoneyRewardFormat[] = "niiiiiiiiii";
 char const QuestPackageItemfmt[] = "niiii";
 char const QuestSortFormat[] = "ns";
